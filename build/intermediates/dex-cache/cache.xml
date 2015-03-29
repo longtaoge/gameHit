@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\AppData\CopyofgameHit\app\libs\androidkb.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="7f35c4dd4ca08102f5429babfaed1f7510744b8d">
+        <dex dex="F:\AppData\CopyofgameHit\app\build\intermediates\pre-dexed\debug\androidkb-3ff5a42c30601da9c7782146264c6917b2667bfc.jar" />
+    </item>
+    <item
+        jar="E:\Android_IDE\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\AppData\CopyofgameHit\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-308831e3d698d233c14508fa9916b7f92439a83c.jar" />
+    </item>
+    <item
+        jar="F:\AppData\CopyofgameHit\app\libs\androidkz.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="7e998af686dc247ac19e08976139a40decda50c1">
+        <dex dex="F:\AppData\CopyofgameHit\app\build\intermediates\pre-dexed\debug\androidkz-3d819cea07002ee9872c8f8c28c2b548d068d90e.jar" />
+    </item>
+    <item
+        jar="F:\AppData\CopyofgameHit\app\libs\androidAP.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6c4919e96d556764f0696577ef2e08c085ba497f">
+        <dex dex="F:\AppData\CopyofgameHit\app\build\intermediates\pre-dexed\debug\androidAP-5b62ee9821030011c155a457cfa60f3cbb755ec9.jar" />
+    </item>
+    <item
+        jar="F:\AppData\CopyofgameHit\app\libs\androidts.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b2db53df2d23bf20433b3200423a27191ab70d1e">
+        <dex dex="F:\AppData\CopyofgameHit\app\build\intermediates\pre-dexed\debug\androidts-9819aaf64f02e74cfe1ba51bbd7311a417931510.jar" />
+    </item>
+
+</items>

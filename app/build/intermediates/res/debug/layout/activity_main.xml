@@ -1,0 +1,70 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/mapds48_001">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center_horizontal|center_vertical"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btnGameLevel"
+            android:layout_width="wrap_content"
+            android:textSize="48px"
+            android:layout_margin="10px"
+            android:padding="20px"
+            android:layout_height="wrap_content"
+            android:text="闯关模式"
+            android:background="@drawable/btn_menu"
+            android:textColor="@color/fontColor" />
+
+        <Button
+            android:id="@+id/btnGameRandom"
+            android:layout_width="wrap_content"
+            android:textSize="48px"
+            android:layout_margin="10px"
+            android:padding="20px"
+            android:layout_height="wrap_content"
+            android:text="随机模式"
+            android:background="@drawable/btn_menu"
+            android:textColor="@android:color/white" />
+
+        <Button
+            android:id="@+id/btnGameTime"
+            android:layout_width="wrap_content"
+            android:textSize="48px"
+            android:layout_margin="10px"
+            android:padding="20px"
+            android:layout_height="wrap_content"
+            android:text="计时模式"
+            android:background="@drawable/btn_menu"
+            android:textColor="@android:color/white" />
+
+        <Button
+            android:id="@+id/btnGameSuper"
+            android:layout_width="wrap_content"
+            android:textSize="48px"
+            android:layout_margin="10px"
+            android:padding="20px"
+            android:layout_height="wrap_content"
+            android:text="无尽模式"
+            android:background="@drawable/btn_menu"
+            android:textColor="@android:color/white" />
+
+        <Button
+            android:id="@+id/btnGameInfo"
+            android:layout_width="wrap_content"
+            android:textSize="48px"
+            android:layout_margin="10px"
+            android:padding="20px"
+            android:layout_height="wrap_content"
+            android:text="游戏说明"
+            android:background="@drawable/btn_menu"
+            android:textColor="@color/fontColor" />
+    </LinearLayout>
+
+</LinearLayout>
+<!-- From: file:/F:/AppData/CopyofgameHit/app/src/main/res/layout/activity_main.xml -->
